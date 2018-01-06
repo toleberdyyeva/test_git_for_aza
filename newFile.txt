@@ -1,4 +1,4 @@
-is it a first line ?
+this is first line
 first/second line
 second line
 third line
