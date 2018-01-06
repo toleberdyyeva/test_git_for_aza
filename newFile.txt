@@ -1,4 +1,4 @@
-is it a first line ?
+hello aza this is your first conflict 
 first/second line
 second line
 third line
